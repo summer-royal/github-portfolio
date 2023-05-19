@@ -2,7 +2,7 @@
 
 # Summer's Portfolio
 
-Welcome to my GitHub portfolio! This repository showcases my projects and coding samples, demonstrating my skills and expertise in [programming languages or technologies you specialize in]. It serves as a comprehensive overview of my work and accomplishments as a [your desired job title, e.g., software engineer, data scientist, web developer].
+Welcome to my GitHub portfolio! This repository showcases my projects and coding samples, demonstrating my skills and expertise in C++ and python. It serves as a comprehensive overview of my work and accomplishments as a software engineer intern.
 
 ## Projects
 
