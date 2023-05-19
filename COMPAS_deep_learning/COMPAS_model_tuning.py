@@ -103,7 +103,6 @@ def nn_classifier(learning_rate, reg_strength, dropout_strength=0.5):
     # create model
     model = Sequential()
 
-    # YOUR CODE HERE:
     # Add a layer to model which has:
     # Input size: 9; and output size: 1
     model_dropout.add(Dropout(reg_strength, input_shape = (X.shape[1],)))
@@ -111,7 +110,6 @@ def nn_classifier(learning_rate, reg_strength, dropout_strength=0.5):
     model.add(Dense(100, activation = 'relu')) 
     model.add(Dense(50, activation = 'relu'))  
     model.add(Dense(num_classes, activation='softmax'))
-    # END CODE
     
     # compile model
     sgd = tf.keras.optimizers.SGD(lr = learning_rate)
@@ -143,13 +141,11 @@ def dropout_classifier(learning_rate, dropout_strength):
     # create model
     model_dropout = Sequential()
 
-    # YOUR CODE HERE:
     model_dropout.add(Dropout(dropout_strength, input_shape = (X.shape[1],)))
     model_dropout.add(Dense(50, activation = 'relu')) 
     model_dropout.add(Dense(100, activation = 'relu')) 
     model_dropout.add(Dense(50, activation = 'relu')) 
     model_dropout.add(Dense(num_classes, activation = 'softmax'))
-    # END CODE
     
     # compile model
     sgd = keras.optimizers.SGD(lr = learning_rate)
@@ -167,8 +163,7 @@ print('Test accuracy:', acc)
 def tune_hyperparams():
     best_model = (None, None, None)
     running_best_accuracy = 0
-
-    # Play with these!
+    
     learning_rate = [1, 1e-1, 1e-2, 1e-8, 2e-3]
     reg_strength = [1e-17, 1e-20, 1e-21, 1e-4, 1e-2] 
     
