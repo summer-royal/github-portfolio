@@ -22,7 +22,8 @@ def read_train_examples():
         examples = [line.split() for line in lines]
         examples = [(line[0], int(line[1])) for line in examples]
     return examples
-  def sigmoid(z):
+
+def sigmoid(z):
     return 1.0 / (1 + np.exp(-z))
 
 def compute_logistic_regression(word, weights, bias):
