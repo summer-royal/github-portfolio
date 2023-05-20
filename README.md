@@ -15,7 +15,6 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 - Description: This code implements logistic regression using word embeddings for gender prediction. It uses pre-trained word vectors from the GloVe word embedding model.
 - Respository Link: https://github.com/summer-royal/logistic_regression_loan_approval_biases.git
 
-https://github.com/summer-royal/logistic_regression_loan_approval_biases.git
 ### Deep Learning for Recidivism Prediction
 - Description: This python program implements a neural network model for predicting recidivism using the COMPAS dataset. The model is trained and evaluated on the dataset, and hyperparameter tuning is performed to find the best-performing model.
 - Repository Link: https://github.com/summer-royal/deep_learning_compas_recidivism_score.git
