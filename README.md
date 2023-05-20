@@ -11,8 +11,8 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 - Description: This C++ program implements a neural network with backpropagation algorithm to solve the XOR problem. The XOR problem is a classic problem in neural network literature, where the goal is to predict the output of an XOR gate given two binary inputs.
 - Repository Link: https://github.com/summer-royal/neural_network_for_xor.git
 
-### Assessing Biases in Logistic Regression for Credit Risk Prediction
-- Description: This code implements logistic regression using word embeddings for gender prediction. It uses pre-trained word vectors from the GloVe word embedding model.
+### Improving Logistic Regression for Credit Risk Prediction
+- Description: This code implements a neural network model for predicting recidivism using the COMPAS dataset. The model is trained and evaluated on the dataset, and hyperparameter tuning is performed to find the best-performing model.
 - Respository Link: https://github.com/summer-royal/logistic_regression_loan_approval_biases.git
 
 ### Deep Learning for Recidivism Prediction
