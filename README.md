@@ -11,6 +11,10 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 - Description: This C++ program implements a neural network with backpropagation algorithm to solve the XOR problem. The XOR problem is a classic problem in neural network literature, where the goal is to predict the output of an XOR gate given two binary inputs.
 - Repository Link: https://github.com/summer-royal/github-portfolio/tree/e0e69493877f8164743332021487082a8e741b98/neural_network_starter
 
+### Deep Learning for Recidivism Prediction
+- Description: This python program implements a neural network model for predicting recidivism using the COMPAS dataset. The model is trained and evaluated on the dataset, and hyperparameter tuning is performed to find the best-performing model.
+- Repository Link: https://github.com/summer-royal/deep_learning_compas_recidivism_score.git
+
 ## Skills
 
 - Programming languages: C, C++, Python, HTML, Java
