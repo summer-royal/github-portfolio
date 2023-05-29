@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 - Description: This code implements logistic regression using word embeddings for gender prediction. It uses pre-trained word vectors from the GloVe word embedding model.
 - Repository Link: https://github.com/summer-royal/logistic_regression_gender_bias.git
 
-### Local Maxima Analysis of Firing Rates
+### Local Maxima Analysis of Neuronal Firing Rates
 - Description: This code analyzes the firing rates of a neuron and identifies the local maxima in the rate data. It plots the firing rate over time and marks the local maxima points on the graph.
 - Repository Link: https://github.com/summer-royal/local_max_firing_rate.git
 
