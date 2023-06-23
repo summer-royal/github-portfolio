@@ -6,6 +6,10 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 
 ## Projects
 
+### HipTracks Application
+- Description: This is a project that my team and I created in 48 hours while competing in the the Aging & Longevity category at the HealthHacks hackathon held at Stanford University. Our project came in 1st place for our category. Our app provides patients with a way to post-operatively monitor vital signs my recording and analyzing biometric data after hipp & knee replacement surgery. We used transfer learning to create a convolutional neural network that can predict the risk of an SSI. Through the app, patients can monitor their latest diagnostic test results, complete the HOOS Questionnaire, complete the 6-minute walk test, upload wound images for analysis, view a hsitory of biometric data collected within the app, reach out to their healthcare provider, and view suggested targeted exercises that are recommended based on their test results. 
+- Repository Link: https://github.com/summer-royal/hipTracks_app.git
+    
 ### Neural Network with Backpropagation Algorithm for XOR Problem
 
 - Description: This C++ program implements a neural network with backpropagation algorithm to solve the XOR problem. The XOR problem is a classic problem in neural network literature, where the goal is to predict the output of an XOR gate given two binary inputs.
@@ -30,7 +34,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 
 ## Skills
 
-- Programming languages: C, C++, Python, HTML, Java
+- Programming languages: C, C++, Python, HTML, Java, and Swift
 - I have experience working with data structures, website development, app development, machine learning, deep learning, and data mining.
 
 ## Education
