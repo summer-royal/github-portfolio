@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 
 ## Education
 
-- I am currently studying Computer Science and Biomedical Computation at Stanford University
+- I am currently studying Biomedical Computation at Stanford University
 - Expected Graduation: 2025
 
 ## Experience
