@@ -6,6 +6,10 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 
 ## Projects
 
+### Autonomy Aid
+- Description: This is a project that my team and I created in 36 hours while competing in the TreeHacks hackathon held at Stanford University.
+- Repository Link: https://github.com/miralomaadam/treehacks2024
+  
 ### HipTracks Application
 - Description: This is a project that my team and I created in 48 hours while competing in the the Aging & Longevity category at the HealthHacks hackathon held at Stanford University. Our project came in 1st place for our category. Our app provides patients with a way to post-operatively monitor vital signs my recording and analyzing biometric data after hipp & knee replacement surgery. We used transfer learning to create a convolutional neural network that can predict the risk of an SSI. Through the app, patients can monitor their latest diagnostic test results, complete the HOOS Questionnaire, complete the 6-minute walk test, upload wound images for analysis, view a hsitory of biometric data collected within the app, reach out to their healthcare provider, and view suggested targeted exercises that are recommended based on their test results. 
 - Repository Link: https://github.com/summer-royal/hipTracks_app.git
