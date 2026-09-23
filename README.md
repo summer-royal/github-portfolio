@@ -48,6 +48,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 
 ### Mind-Controlled Lightbulb
 - Description: A lightbulb switched by thought alone, built through Stanford's Brain-Computer Interface club: an EEG electrode reads the wearer, and the software decides when they meant it. Wrote the data collection and signal processing halves — the part that has to get from a noisy scalp electrode to a decision clean enough to act on.
+- https://github.com/summer-royal/telecontrol.git
 - Tags: EEG · Signal processing · Python · BCI
 
 ### Climate Mind
