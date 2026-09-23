@@ -97,14 +97,10 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 
 ## Education
 
-- I am currently studying Biomedical Computation at Stanford University
-- Expected Graduation: 2025
-
-## Experience
-
-- During the summer of 2022, I worked as a software engineer intern at Argo AI. Argo AI was an autonomous vehicle company that builds software, hardware, maps, and cloud-support infrastructure. I worked on the System Fault Detection & Management Team, worked with Machine Learning Team to generate and process new data for SFDM-related models, created C++ and Python programs to process and analyze log data, and developed queries, reports, and data visualizations to support the needs of various teams.
-- From 09/2021 to 05/2022, I worked for Breakout Mentors as a computer science instructor providing personalized python instruction to students.
+- M.S. Computer Science, AI Concentration | Stanford University | 2026
+- B.S. Biomedical Computation | Stanford University | 2025
 
 ## Contact Information
+www.summer-royal.com
 https://www.linkedin.com/in/summer-royal-7824b5211
-sroyal@stanford.edu
+summerroyal@alumni.stanford.edu
