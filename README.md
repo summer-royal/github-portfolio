@@ -44,6 +44,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 ### NeuroTrack
 - Description: A hardware-plus-software system that helps neurologists track disease progression through repeated reaction-time measurement, with a focus on Parkinson's, where early detection and monitoring between visits are major gaps. An Arduino Giga R1 rig (two buttons, two LEDs) runs a ten-trial reaction sequence capturing press latency and hold duration, feeding a web platform where clinicians manage patients, run tests, and view longitudinal charts against healthy and Parkinson's baselines. I worked on the classification layer, comparing Naive Bayes against a RandomForest classifier trained on reaction-time results plus medical history, labs, and symptoms; the RandomForest reached 86% accuracy.
 - Tags: Arduino · Naive Bayes · Random forest · Web app · Parkinson's disease
+- Github repo: https://github.com/radiaw/hackmit24.git
 - Slides (PDF): https://www.summer-royal.com/neurotrack-pitch.pdf
 
 ### Mind-Controlled Lightbulb
