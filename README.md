@@ -26,6 +26,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 ### Exploding Kittens Agents
 - Description: A full-fidelity simulation of the card game — roughly 100,000 hashed states, no simplifying assumptions — and three agents competing inside it: MLE with value iteration, Q-Learning with temporal-difference updates, and a Bayesian agent doing Dirichlet-Beta inference over deck composition. Q-Learning led at a 7.4% win rate over 500 games and 27% in all-agent tournaments, against a 25% random baseline. The better result is the explanation for that ceiling: the game's ~9% per-turn draw risk caps how much advantage any policy can extract.
 - Tags: Q-Learning · Value iteration · Bayesian inference · Python
+- Github repo: https://github.com/summer-royal/cs238-explodingKittens.git
 - Paper (PDF): https://www.summer-royal.com/exploding-kittens-cs238.pdf
 
 ### AutonomyAid
