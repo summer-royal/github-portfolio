@@ -4,6 +4,8 @@
 
 Welcome to my GitHub portfolio! This repository showcases my projects and coding samples, demonstrating my skills and expertise in C++ and python. It serves as a comprehensive overview of my work and accomplishments as a software engineer intern.
 
+Resume: https://www.summer-royal.com/resume.pdf
+
 ## Silly Little Side Projects
 
 ### Memory-as-Action
