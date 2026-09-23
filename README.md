@@ -17,6 +17,7 @@ Resume: https://www.summer-royal.com/resume.pdf
 ### Memory Distillation
 - Description: Trains small language models to know when to distrust their own retrieved memory, using supervised fine-tuning and curriculum learning over teacher-generated distillations of a retrieval corpus. The best curriculum moved ProtocolQA 31 points and LitQA2 5 points over the 7B zero-shot baseline on LAB-Bench. It also has a limit worth stating out loud: targeted surface-form attacks defeat both similarity-based and semantic write-gate defenses, because they exploit the exact signal retrieval depends on.
 - Tags: SFT · Curriculum learning · LAB-Bench · Adversarial robustness
+- Github repo: https://github.com/rrsudev/dc-coscientist.git
 - Paper (PDF): https://www.summer-royal.com/memory-distillation-cs224n.pdf
 
 ### Biomarkers from Slides
