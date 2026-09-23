@@ -20,6 +20,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 ### Biomarkers from Slides
 - Description: Asks whether attention-based multiple-instance learning can read ER, PR, and HER2 status off H&E-stained whole-slide images — the cheap stain every case already gets — instead of the assays that gate cancer treatment eligibility. Benchmarked three patch encoders (ResNet-50, UNI, CONCH) against three aggregation strategies, including a proposed Tumor-Aware CLAM with residual gating. Patient-level 5-fold cross-validation with bootstrap confidence intervals returned the unglamorous answer: dataset size is the binding constraint, not the architecture.
 - Tags: Attention MIL · CLAM · UNI · CONCH · Digital pathology
+- - Github repo: https://github.com/summer-royal/cs231n_predicting_cancer_biomarkers.git
 - Paper (PDF): https://www.summer-royal.com/biomarkers-from-slides-cs231n.pdf
 
 ### Exploding Kittens Agents
