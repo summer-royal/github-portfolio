@@ -9,6 +9,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and coding
 ### Memory-as-Action
 - Description: A five-stage pipeline — memory bank construction, retrieval, expert annotation, SFT warm-start, then GRPO — that distills a 32B teacher into a 7B model which learns to reach for medical textbook entries while answering USMLE questions. Retrieval normally gets bolted on as a fixed step that always fires; here it is an action the model chooses, so the interesting question becomes when a small model decides it needs to look something up. Ablated against self-consistency voting, cloze scoring, and DAgger distillation.
 - Tags: RAG · SFT · GRPO · Model distillation · Medical QA
+- Github repo: https://github.com/summer-royal/224r-medical_reasoning.git
 - Paper (PDF): https://www.summer-royal.com/memory-as-action-cs224r.pdf
 
 ### Memory Distillation
